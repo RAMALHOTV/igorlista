@@ -1,126 +1,54 @@
 
-<layoutype>List</layoutype>
+
+<layoutype>thumbnail</layoutype>
 
 <channels>
 
 
-
 <channel>
-<name>[B][COLOR gray]TV ABERTA[/COLOR][/B]</name>
-<externallink>https://raw.githubusercontent.com/igor-rangel7l/AddOn_IgorLista/master/Tv%20online/TvAberta.html</externallink>
-<info>[B]Ajude para que o add on n�o se acabe !!
-Doa��es conta Poupan�a Caixa
-Agencia: 0154 
-Oera��o: 13
-Conta: 00071286-8
-IGOR RANGEL S GONCALVES[/B]</info>
-<fanart>http://igorlista.at.ua/Logos/Menu_Principal.png</fanart>
-<thumbnail>http://goo.gl/lZZqZP</thumbnail>
+<name>[B][COLOR white]Servidor Principal[/COLOR][/B]</name>
+<externallink>https://pastebin.com/raw/sXhk4i0k</externallink>
+<fanart>https://boainformacao.com.br/wp-content/uploads/2019/04/tv.png</fanart>
+<thumbnail>https://pbs.twimg.com/profile_images/2581647529/qvmz7k3lmy6e7ba65kmk_400x400.png</thumbnail>
 </channel>
 
 <channel>
-<name>[B][COLOR red]ESPORTES[/COLOR][/B]</name>
-<externallink>https://raw.githubusercontent.com/igor-rangel7l/AddOn_IgorLista/master/Tv%20online/Esportes.html</externallink>
-<info>[B]Ajude para que o add on n�o se acabe !!
-Doa��es conta Poupan�a Caixa
-Agencia: 0154 
-Oera��o: 13
-Conta: 00071286-8
-IGOR RANGEL S GONCALVES[/B]</info>
-<fanart>http://igorlista.at.ua/Logos/Menu_Principal.png</fanart>
-<thumbnail>https://goo.gl/p2Qwyt</thumbnail>
+<name>[B][COLOR white]Servidor 02[/COLOR][/B]</name>
+<externallink>https://pastebin.com/raw/4ShV92PN</externallink>
+<fanart>https://boainformacao.com.br/wp-content/uploads/2019/04/tv.png</fanart>
+<thumbnail>https://pbs.twimg.com/profile_images/2581647529/qvmz7k3lmy6e7ba65kmk_400x400.png</thumbnail>
 </channel>
 
 <channel>
-<name>[B][COLOR blue]FILMES[/COLOR][/B]</name>
-<externallink>https://raw.githubusercontent.com/igor-rangel7l/AddOn_IgorLista/master/Tv%20online/Filmes.html</externallink>
-<info>[B]Ajude para que o add on n�o se acabe !!
-Doa��es conta Poupan�a Caixa
-Agencia: 0154 
-Oera��o: 13
-Conta: 00071286-8
-IGOR RANGEL S GONCALVES[/B]</info>
-<fanart>http://igorlista.at.ua/Logos/Menu_Principal.png</fanart>
-<thumbnail>http://goo.gl/uMuwTC</thumbnail>
+<name>[B][COLOR white]Servidor 03[/COLOR][/B]</name>
+<externallink>https://pastebin.com/raw/hCphvpxm</externallink>
+<fanart>https://boainformacao.com.br/wp-content/uploads/2019/04/tv.png</fanart>
+<thumbnail>https://pbs.twimg.com/profile_images/2581647529/qvmz7k3lmy6e7ba65kmk_400x400.png</thumbnail>
 </channel>
 
 <channel>
-<name>[B][COLOR yellow]SERIES[/COLOR][/B]</name>
-<externallink>https://raw.githubusercontent.com/igor-rangel7l/AddOn_IgorLista/master/Tv%20online/Series.html</externallink>
-<info>[B]Ajude para que o add on n�o se acabe !!
-Doa��es conta Poupan�a Caixa
-Agencia: 0154 
-Oera��o: 13
-Conta: 00071286-8
-IGOR RANGEL S GONCALVES[/B]</info>
-<fanart>http://igorlista.at.ua/Logos/Menu_Principal.png</fanart>
-<thumbnail>http://goo.gl/iiVjSV</thumbnail>
+<name>[B][COLOR white]Servidor 04[/COLOR][/B]</name>
+<externallink>https://pastebin.com/raw/1b3gnTi9</externallink>
+<fanart>https://boainformacao.com.br/wp-content/uploads/2019/04/tv.png</fanart>
+<thumbnail>https://pbs.twimg.com/profile_images/2581647529/qvmz7k3lmy6e7ba65kmk_400x400.png</thumbnail>
 </channel>
 
 <channel>
-<name>[B][COLOR orange]INFANTIL[/COLOR][/B]</name>
-<externallink>https://raw.githubusercontent.com/igor-rangel7l/AddOn_IgorLista/master/Tv%20online/Infantil.html</externallink>
-<info>[B]Ajude para que o add on n�o se acabe !!
-Doa��es conta Poupan�a Caixa
-Agencia: 0154 
-Oera��o: 13
-Conta: 00071286-8
-IGOR RANGEL S GONCALVES[/B]</info>
-<fanart>http://igorlista.at.ua/Logos/Menu_Principal.png</fanart>
-<thumbnail>http://goo.gl/44KQkD</thumbnail>
+<name>[B][COLOR white]Servidor 05[/COLOR][/B]</name>
+<externallink>http://a.srvbr.me:8880/get.php?username=Matheus29&password=Matheus29&typ</externallink>
+<fanart>https://boainformacao.com.br/wp-content/uploads/2019/04/tv.png</fanart>
+<thumbnail>https://pbs.twimg.com/profile_images/2581647529/qvmz7k3lmy6e7ba65kmk_400x400.png</thumbnail>
 </channel>
 
 <channel>
-<name>[B][COLOR maroon]VARIEDADES[/COLOR][/B]</name>
-<externallink>https://raw.githubusercontent.com/igor-rangel7l/AddOn_IgorLista/master/Tv%20online/Variedades.html</externallink>
-<info>[B]Ajude para que o add on n�o se acabe !!
-Doa��es conta Poupan�a Caixa
-Agencia: 0154 
-Oera��o: 13
-Conta: 00071286-8
-IGOR RANGEL S GONCALVES[/B]</info>
-<fanart>http://igorlista.at.ua/Logos/Menu_Principal.png</fanart>
-<thumbnail>http://goo.gl/qu4nBV</thumbnail>
-</channel>
-
-<channel>
-<name>[B][COLOR white]DOCUMENTARIOS[/COLOR][/B]</name>
-<externallink>https://raw.githubusercontent.com/igor-rangel7l/AddOn_IgorLista/master/Tv%20online/Documentario.html</externallink>
-<info>[B]Ajude para que o add on n�o se acabe !!
-Doa��es conta Poupan�a Caixa
-Agencia: 0154 
-Oera��o: 13
-Conta: 00071286-8
-IGOR RANGEL S GONCALVES[/B]</info>
-<fanart>http://igorlista.at.ua/Logos/Menu_Principal.png</fanart>
-<thumbnail>http://goo.gl/6y6WbS</thumbnail>
-</channel>
-
-<channel>
-<name>[B][COLOR red]P[/COLOR][COLOR blue]F[/COLOR][COLOR yellow]C[/COLOR] [COLOR orange] D[/COLOR][COLOR blue]I[/COLOR][COLOR white]A[/COLOR] [COLOR red] D[/COLOR][COLOR blue]E[/COLOR] [COLOR yellow] J[/COLOR][COLOR orange]O[/COLOR][COLOR blue]G[/COLOR][COLOR white]O[/COLOR][/B]</name>
-<externallink>https://raw.githubusercontent.com/igor-rangel7l/AddOn_IgorLista/master/Tv%20online/Pfc_dia_de_jogo.html</externallink>
-<info>[B]Ajude para que o add on n�o se acabe !!
-Doa��es conta Poupan�a Caixa
-Agencia: 0154 
-Oera��o: 13
-Conta: 00071286-8
-IGOR RANGEL S GONCALVES[/B]</info>
-<fanart>http://igorlista.at.ua/Logos/Menu_Principal.png</fanart>
-<thumbnail>http://goo.gl/MUPmM9</thumbnail>
-</channel>
-
-<channel>
-<name>[B][COLOR silver]JORNALISMO[/COLOR][/B]</name>
-<externallink>https://raw.githubusercontent.com/igor-rangel7l/AddOn_IgorLista/master/Tv%20online/Jornalismo.html</externallink>
-<info>[B]Ajude para que o add on n�o se acabe !!
-Doa��es conta Poupan�a Caixa
-Agencia: 0154 
-Oera��o: 13
-Conta: 00071286-8
-IGOR RANGEL S GONCALVES[/B]</info>
-<fanart>http://igorlista.at.ua/Logos/Menu_Principal.png</fanart>
-<thumbnail>http://goo.gl/kjxowQ</thumbnail>
+<name>[B][COLOR white]Super Lista Teste [/COLOR][/B]</name>
+<externallink>http://maxptv.net:8080/get.php?username=tata01&password=tata01&type=m</externallink>
+<fanart>https://boainformacao.com.br/wp-content/uploads/2019/04/tv.png</fanart>
+<thumbnail>https://pbs.twimg.com/profile_images/2581647529/qvmz7k3lmy6e7ba65kmk_400x400.png</thumbnail>
 </channel>
 
 
 </channels>
+
+
+
