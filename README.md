@@ -1,75 +1,126 @@
 
-<layoutype>thumbnail</layoutype>
+<layoutype>List</layoutype>
 
 <channels>
 
 
+
 <channel>
-<name>[B][COLOR white]TV ONLINE BR[/COLOR][/B]</name>
-<externallink>https://raw.githubusercontent.com/igor-rangel7l/AddOn_IgorLista/master/Tv%20online/Geral.html</externallink>
+<name>[B][COLOR gray]TV ABERTA[/COLOR][/B]</name>
+<externallink>https://raw.githubusercontent.com/igor-rangel7l/AddOn_IgorLista/master/Tv%20online/TvAberta.html</externallink>
+<info>[B]Ajude para que o add on n�o se acabe !!
+Doa��es conta Poupan�a Caixa
+Agencia: 0154 
+Oera��o: 13
+Conta: 00071286-8
+IGOR RANGEL S GONCALVES[/B]</info>
 <fanart>http://igorlista.at.ua/Logos/Menu_Principal.png</fanart>
-<thumbnail>http://goo.gl/PumvSm</thumbnail>
+<thumbnail>http://goo.gl/lZZqZP</thumbnail>
 </channel>
 
 <channel>
-<name>[B][COLOR white]CANAIS INTERNACIONAIS[/COLOR][/B]</name>
-<externallink>http://bit.ly/Geral_ChInternacionais</externallink>
+<name>[B][COLOR red]ESPORTES[/COLOR][/B]</name>
+<externallink>https://raw.githubusercontent.com/igor-rangel7l/AddOn_IgorLista/master/Tv%20online/Esportes.html</externallink>
+<info>[B]Ajude para que o add on n�o se acabe !!
+Doa��es conta Poupan�a Caixa
+Agencia: 0154 
+Oera��o: 13
+Conta: 00071286-8
+IGOR RANGEL S GONCALVES[/B]</info>
 <fanart>http://igorlista.at.ua/Logos/Menu_Principal.png</fanart>
-<thumbnail>http://goo.gl/vNVkoZ</thumbnail>
+<thumbnail>https://goo.gl/p2Qwyt</thumbnail>
 </channel>
 
 <channel>
-<name>[B][COLOR white]FILMES ONLINE[/COLOR][/B]</name>
-<externallink>http://bit.ly/Filmes_IG</externallink>
+<name>[B][COLOR blue]FILMES[/COLOR][/B]</name>
+<externallink>https://raw.githubusercontent.com/igor-rangel7l/AddOn_IgorLista/master/Tv%20online/Filmes.html</externallink>
+<info>[B]Ajude para que o add on n�o se acabe !!
+Doa��es conta Poupan�a Caixa
+Agencia: 0154 
+Oera��o: 13
+Conta: 00071286-8
+IGOR RANGEL S GONCALVES[/B]</info>
 <fanart>http://igorlista.at.ua/Logos/Menu_Principal.png</fanart>
-<thumbnail>http://goo.gl/ZiWMZU</thumbnail>
+<thumbnail>http://goo.gl/uMuwTC</thumbnail>
 </channel>
 
 <channel>
-<name>[B][COLOR white]SERIES ONLINE[/COLOR][/B]</name>
-<externallink>http://bit.ly/Geral_Series</externallink>
+<name>[B][COLOR yellow]SERIES[/COLOR][/B]</name>
+<externallink>https://raw.githubusercontent.com/igor-rangel7l/AddOn_IgorLista/master/Tv%20online/Series.html</externallink>
+<info>[B]Ajude para que o add on n�o se acabe !!
+Doa��es conta Poupan�a Caixa
+Agencia: 0154 
+Oera��o: 13
+Conta: 00071286-8
+IGOR RANGEL S GONCALVES[/B]</info>
 <fanart>http://igorlista.at.ua/Logos/Menu_Principal.png</fanart>
-<thumbnail>http://goo.gl/KyoeaS</thumbnail>
+<thumbnail>http://goo.gl/iiVjSV</thumbnail>
 </channel>
 
 <channel>
-<name>[B][COLOR white]ANIMAÇÕES[/COLOR][/B]</name>
-<externallink>http://bit.ly/Animacoesig</externallink>
+<name>[B][COLOR orange]INFANTIL[/COLOR][/B]</name>
+<externallink>https://raw.githubusercontent.com/igor-rangel7l/AddOn_IgorLista/master/Tv%20online/Infantil.html</externallink>
+<info>[B]Ajude para que o add on n�o se acabe !!
+Doa��es conta Poupan�a Caixa
+Agencia: 0154 
+Oera��o: 13
+Conta: 00071286-8
+IGOR RANGEL S GONCALVES[/B]</info>
 <fanart>http://igorlista.at.ua/Logos/Menu_Principal.png</fanart>
-<thumbnail>http://igorlista.at.ua/Animacoes.png</thumbnail>
+<thumbnail>http://goo.gl/44KQkD</thumbnail>
 </channel>
 
 <channel>
-<name>[B][COLOR white]DESENHOS 24HRS[/COLOR][/B]</name>
-<externallink>http://bit.ly/Geral_Desenhos24Hrs</externallink>
+<name>[B][COLOR maroon]VARIEDADES[/COLOR][/B]</name>
+<externallink>https://raw.githubusercontent.com/igor-rangel7l/AddOn_IgorLista/master/Tv%20online/Variedades.html</externallink>
+<info>[B]Ajude para que o add on n�o se acabe !!
+Doa��es conta Poupan�a Caixa
+Agencia: 0154 
+Oera��o: 13
+Conta: 00071286-8
+IGOR RANGEL S GONCALVES[/B]</info>
 <fanart>http://igorlista.at.ua/Logos/Menu_Principal.png</fanart>
-<thumbnail>http://goo.gl/rBsS8A</thumbnail>
+<thumbnail>http://goo.gl/qu4nBV</thumbnail>
 </channel>
 
 <channel>
-<name>[B][COLOR white]SERIES 24HRS[/COLOR][/B]</name>
-<externallink>http://bit.ly/Geral_Series24Hrs</externallink>
+<name>[B][COLOR white]DOCUMENTARIOS[/COLOR][/B]</name>
+<externallink>https://raw.githubusercontent.com/igor-rangel7l/AddOn_IgorLista/master/Tv%20online/Documentario.html</externallink>
+<info>[B]Ajude para que o add on n�o se acabe !!
+Doa��es conta Poupan�a Caixa
+Agencia: 0154 
+Oera��o: 13
+Conta: 00071286-8
+IGOR RANGEL S GONCALVES[/B]</info>
 <fanart>http://igorlista.at.ua/Logos/Menu_Principal.png</fanart>
-<thumbnail>http://goo.gl/VIlrvY</thumbnail>
+<thumbnail>http://goo.gl/6y6WbS</thumbnail>
 </channel>
 
 <channel>
-<name>[B][COLOR white]RADIOS[/COLOR][/B]</name>
-<externallink>http://bit.ly/Geral_Radios</externallink>
+<name>[B][COLOR red]P[/COLOR][COLOR blue]F[/COLOR][COLOR yellow]C[/COLOR] [COLOR orange] D[/COLOR][COLOR blue]I[/COLOR][COLOR white]A[/COLOR] [COLOR red] D[/COLOR][COLOR blue]E[/COLOR] [COLOR yellow] J[/COLOR][COLOR orange]O[/COLOR][COLOR blue]G[/COLOR][COLOR white]O[/COLOR][/B]</name>
+<externallink>https://raw.githubusercontent.com/igor-rangel7l/AddOn_IgorLista/master/Tv%20online/Pfc_dia_de_jogo.html</externallink>
+<info>[B]Ajude para que o add on n�o se acabe !!
+Doa��es conta Poupan�a Caixa
+Agencia: 0154 
+Oera��o: 13
+Conta: 00071286-8
+IGOR RANGEL S GONCALVES[/B]</info>
 <fanart>http://igorlista.at.ua/Logos/Menu_Principal.png</fanart>
-<thumbnail>http://goo.gl/pMM1Bg</thumbnail>
+<thumbnail>http://goo.gl/MUPmM9</thumbnail>
 </channel>
 
 <channel>
-<name>[B][COLOR white]FUTEBOL AO VIVO[/COLOR][/B]</name>
-<externallink>https://raw.githubusercontent.com/igor-rangel7l/Igor_Lista/master/FutebolAoVivo_Geral.html</externallink>
+<name>[B][COLOR silver]JORNALISMO[/COLOR][/B]</name>
+<externallink>https://raw.githubusercontent.com/igor-rangel7l/AddOn_IgorLista/master/Tv%20online/Jornalismo.html</externallink>
+<info>[B]Ajude para que o add on n�o se acabe !!
+Doa��es conta Poupan�a Caixa
+Agencia: 0154 
+Oera��o: 13
+Conta: 00071286-8
+IGOR RANGEL S GONCALVES[/B]</info>
 <fanart>http://igorlista.at.ua/Logos/Menu_Principal.png</fanart>
-<thumbnail>http://igorlistaaddon.ucoz.com/Page_Futebol/JOGOS.png</thumbnail>
+<thumbnail>http://goo.gl/kjxowQ</thumbnail>
 </channel>
 
 
 </channels>
-
-
-
-
