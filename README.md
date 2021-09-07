@@ -1,54 +1,35 @@
 
 
-<layoutype>thumbnail</layoutype>
-
-<channels>
-
-
-<channel>
-<name>[B][COLOR white]Servidor Principal[/COLOR][/B]</name>
-<externallink>https://pastebin.com/raw/sXhk4i0k</externallink>
-<fanart>https://boainformacao.com.br/wp-content/uploads/2019/04/tv.png</fanart>
-<thumbnail>https://pbs.twimg.com/profile_images/2581647529/qvmz7k3lmy6e7ba65kmk_400x400.png</thumbnail>
-</channel>
-
-<channel>
-<name>[B][COLOR white]Servidor 02[/COLOR][/B]</name>
-<externallink>https://pastebin.com/raw/4ShV92PN</externallink>
-<fanart>https://boainformacao.com.br/wp-content/uploads/2019/04/tv.png</fanart>
-<thumbnail>https://pbs.twimg.com/profile_images/2581647529/qvmz7k3lmy6e7ba65kmk_400x400.png</thumbnail>
-</channel>
-
-<channel>
-<name>[B][COLOR white]Servidor 03[/COLOR][/B]</name>
-<externallink>https://pastebin.com/raw/hCphvpxm</externallink>
-<fanart>https://boainformacao.com.br/wp-content/uploads/2019/04/tv.png</fanart>
-<thumbnail>https://pbs.twimg.com/profile_images/2581647529/qvmz7k3lmy6e7ba65kmk_400x400.png</thumbnail>
-</channel>
-
-<channel>
-<name>[B][COLOR white]Servidor 04[/COLOR][/B]</name>
-<externallink>https://pastebin.com/raw/1b3gnTi9</externallink>
-<fanart>https://boainformacao.com.br/wp-content/uploads/2019/04/tv.png</fanart>
-<thumbnail>https://pbs.twimg.com/profile_images/2581647529/qvmz7k3lmy6e7ba65kmk_400x400.png</thumbnail>
-</channel>
-
-<channel>
-<name>[B][COLOR white]Servidor 05[/COLOR][/B]</name>
-<externallink>http://a.srvbr.me:8880/get.php?username=Matheus29&password=Matheus29&typ</externallink>
-<fanart>https://boainformacao.com.br/wp-content/uploads/2019/04/tv.png</fanart>
-<thumbnail>https://pbs.twimg.com/profile_images/2581647529/qvmz7k3lmy6e7ba65kmk_400x400.png</thumbnail>
-</channel>
-
-<channel>
-<name>[B][COLOR white]Super Lista Teste [/COLOR][/B]</name>
-<externallink>http://maxptv.net:8080/get.php?username=tata01&password=tata01&type=m</externallink>
-<fanart>https://boainformacao.com.br/wp-content/uploads/2019/04/tv.png</fanart>
-<thumbnail>https://pbs.twimg.com/profile_images/2581647529/qvmz7k3lmy6e7ba65kmk_400x400.png</thumbnail>
-</channel>
-
-
-</channels>
-
-
-
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<item>
+<title>[B][COLOR white]FILMES DIVERSOS[/COLOR][/B]</title>
+<link>http://ignorame</link>
+<thumbnail>https://archive.org/download/logo-filmes-png-1/logo-filmes-png-1.png</thumbnail>
+<fanart>https://www.imoveweb.com.br/wp-content/uploads/2021/05/1619861403_hqdefault.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/RAMALHOTV/filmes-diretos-/main/README.md</externallink>
+</item>
+ 
+<item>
+<title>[B][COLOR white]FILMES 2018[/COLOR][/B]</title>
+<link>http://ignorame</link>
+<thumbnail>https://cinematographecinemafilmes.files.wordpress.com/2018/05/melhores-filmes-cinematographe-2018-19.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/aOH8Dwr4kbA/maxresdefault.jpg</fanart>
+<externallink>https://pastebin.com/raw/NTKmEnBC</externallink>
+</item>
+ 
+<item>
+<title>[B][COLOR white]FILMES 2019[/COLOR][/B]</title>
+<link>http://ignorame</link>
+<thumbnail>https://linq.net.br/wp-content/uploads/2018/12/cinema-463x348.jpg</thumbnail>
+<fanart>https://linq.net.br/wp-content/uploads/2018/12/cinema-463x348.jpg</fanart>
+<externallink>https://pastebin.com/raw/Nk6NG9PA</externallink>
+</item>
+ 
+<item>
+<title>[B][COLOR white]FILMES TRIOLOGIA  [/COLOR][/B]</title>
+<link>http://ignorame</link>
+<thumbnail>https://www.baixedvdr.com/wp-content/uploads/2020/10/COLECAO-FILMES-3X1-VOL.442.jpg</thumbnail>
+<fanart>https://www.baixedvdr.com/wp-content/uploads/2020/10/Trilogia-Mega-Filmes-3x1-1.jpg</fanart>
+<externallink>https://pastebin.com/raw/rQEqZXtr</externallink>
+</item>
+ 
