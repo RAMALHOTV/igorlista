@@ -2,10 +2,10 @@
 
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <item>
-<title>[B][COLOR white]FILMES DIVERSOS[/COLOR][/B]</title>
+<title>[B][COLOR white]TOP Filmes Diversos[/COLOR][/B]</title>
 <link>http://ignorame</link>
-<thumbnail>https://archive.org/download/logo-filmes-png-1/logo-filmes-png-1.png</thumbnail>
-<fanart>https://www.imoveweb.com.br/wp-content/uploads/2021/05/1619861403_hqdefault.jpg</fanart>
+<thumbnail>https://2.bp.blogspot.com/-vE5wLgCjKfw/WKO7M5HtFRI/AAAAAAAADRM/TxVMtnvPmgsN8Yyy0oMoY7tT6lRtI9eDACLcB/s1600/%2521Top%2BFilmes%2521.png</thumbnail>
+<fanart>https://2.bp.blogspot.com/-vE5wLgCjKfw/WKO7M5HtFRI/AAAAAAAADRM/TxVMtnvPmgsN8Yyy0oMoY7tT6lRtI9eDACLcB/s1600/%2521Top%2BFilmes%2521.png</fanart>
 <externallink>https://raw.githubusercontent.com/RAMALHOTV/filmes-diretos-/main/README.md</externallink>
 </item>
  
@@ -98,5 +98,13 @@
 <thumbnail>https://4.bp.blogspot.com/-sCVBqJS0bQU/WKO7nBmGspI/AAAAAAAADSE/lUFNJALgtOoisi7AecHHnb2oMgS9j30lgCLcB/s1600/Her%25C3%25B3is.png</thumbnail>
 <fanart>https://4.bp.blogspot.com/-sCVBqJS0bQU/WKO7nBmGspI/AAAAAAAADSE/lUFNJALgtOoisi7AecHHnb2oMgS9j30lgCLcB/s1600/Her%25C3%25B3is.png</fanart>
 <externallink>https://raw.githubusercontent.com/RAMALHOTV/MARVEL-DC-diretos-/main/README.md</externallink>
+</item>
+
+<item>
+<title>[B][COLOR white]FILMES Clássicos[/COLOR][/B]</title>
+<link>http://ignorame</link>
+<thumbnail>https://3.bp.blogspot.com/-1bYSiqOhYZg/WKheKrQvARI/AAAAAAAADdY/3H2ZZLkRrf0MQpY3Mf7CtYzH0lawtGYsgCLcB/s1600/Cl%25C3%25A1ssicos%2521.png</thumbnail>
+<fanart>https://3.bp.blogspot.com/-1bYSiqOhYZg/WKheKrQvARI/AAAAAAAADdY/3H2ZZLkRrf0MQpY3Mf7CtYzH0lawtGYsgCLcB/s1600/Cl%25C3%25A1ssicos%2521.png</fanart>
+<externallink></externallink>
 </item>
 
