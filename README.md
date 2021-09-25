@@ -1,8 +1,17 @@
 
 
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+
 <item>
-<title>[B][COLOR white]TOP Filmes Diversos[/COLOR][/B]</title>
+<title>[B][COLOR white]Filmes Lançamentos[/COLOR][/B]</title>
+<link>http://ignorame</link>
+<thumbnail>https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/af4815e1-0f4a-44db-b69f-97131c3e9ea4/dba9f0d-6695f8ef-3d6b-4d26-a0e6-1586794f0e98.jpg</thumbnail>
+<fanart>https://pausadrammatica.files.wordpress.com/2020/12/filmes-2021.jpg?w=1400</fanart>
+<externallink>https://pastebin.com/raw/NTKmEnBC</externallink>
+</item>
+<item>
+<title>[B][COLOR white] Filmes Diversos[/COLOR][/B]</title>
 <link>http://ignorame</link>
 <thumbnail>https://2.bp.blogspot.com/-vE5wLgCjKfw/WKO7M5HtFRI/AAAAAAAADRM/TxVMtnvPmgsN8Yyy0oMoY7tT6lRtI9eDACLcB/s1600/%2521Top%2BFilmes%2521.png</thumbnail>
 <fanart>https://2.bp.blogspot.com/-vE5wLgCjKfw/WKO7M5HtFRI/AAAAAAAADRM/TxVMtnvPmgsN8Yyy0oMoY7tT6lRtI9eDACLcB/s1600/%2521Top%2BFilmes%2521.png</fanart>
