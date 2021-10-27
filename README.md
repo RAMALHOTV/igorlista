@@ -34,7 +34,7 @@
 <link>http://ignorame</link>
 <thumbnail>https://1.bp.blogspot.com/-7GvcVQGSyCg/WKO7ZT2ZJxI/AAAAAAAADRY/BwkvEWPLYzYDoNCa3rQz_aV4F396FgIOgCLcB/s1600/A%25C3%25A7%25C3%25A3o.png</thumbnail>
 <fanart>https://1.bp.blogspot.com/-7GvcVQGSyCg/WKO7ZT2ZJxI/AAAAAAAADRY/BwkvEWPLYzYDoNCa3rQz_aV4F396FgIOgCLcB/s1600/A%25C3%25A7%25C3%25A3o.png</fanart>
-<externallink>https://raw.githubusercontent.com/RAMALHOTV/FILMES-A-O-diretos/main/README.md</externallink>
+<externallink>https://pastebin.com/raw/Nk6NG9PA</externallink>
 </item>
  
 <item>
@@ -42,7 +42,7 @@
 <link>http://ignorame</link>
 <thumbnail>https://3.bp.blogspot.com/-sZSG2hrxxxg/WKO7ctgEn6I/AAAAAAAADRk/kl8vtWFoVSA-dptR08bBnM5kc6tyaeoSgCLcB/s1600/Com%25C3%25A9dia.png</thumbnail>
 <fanart>https://3.bp.blogspot.com/-sZSG2hrxxxg/WKO7ctgEn6I/AAAAAAAADRk/kl8vtWFoVSA-dptR08bBnM5kc6tyaeoSgCLcB/s1600/Com%25C3%25A9dia.png</fanart>
-<externallink>https://raw.githubusercontent.com/RAMALHOTV/FILMES-COM-DIA-diretos-/main/README.md</externallink>
+<externallink>https://pastebin.com/raw/R0SrGuUb</externallink>
 </item>
 
 <item>
@@ -50,7 +50,7 @@
 <link>http://ignorame</link>
 <thumbnail>https://3.bp.blogspot.com/-lXjR4qY2WXA/WKheKsvt_rI/AAAAAAAADdc/p7x_jgjhXcoO7fPy-wQJvS655vLeyc0NwCLcB/s1600/Anima%25C3%25A7%25C3%25A3o%2521.png</thumbnail>
 <fanart>https://3.bp.blogspot.com/-lXjR4qY2WXA/WKheKsvt_rI/AAAAAAAADdc/p7x_jgjhXcoO7fPy-wQJvS655vLeyc0NwCLcB/s1600/Anima%25C3%25A7%25C3%25A3o%2521.png</fanart>
-<externallink>https://raw.githubusercontent.com/RAMALHOTV/FILMES-ANIMA-O-diretos/main/README.md</externallink>
+<externallink>https://pastebin.com/raw/2X4k8QNL</externallink>
 </item>
  
 <item>
@@ -66,7 +66,7 @@
 <link>http://ignorame</link>
 <thumbnail>https://3.bp.blogspot.com/-Lr1JcAvEFtY/WKO7iu363aI/AAAAAAAADR4/IZhBGLKydvYGQoaXJnSPYRr-GacIQtc0wCLcB/s1600/F.%2BCient%25C3%25ADfica.png</thumbnail>
 <fanart>https://3.bp.blogspot.com/-Lr1JcAvEFtY/WKO7iu363aI/AAAAAAAADR4/IZhBGLKydvYGQoaXJnSPYRr-GacIQtc0wCLcB/s1600/F.%2BCient%25C3%25ADfica.png</fanart>
-<externallink>https://raw.githubusercontent.com/RAMALHOTV/FILMES-FIC-O-diretos-/main/README.md</externallink>
+<externallink>https://pastebin.com/raw/9vuP6Wq5</externallink>
 </item>
 
 <item>
@@ -82,7 +82,7 @@
 <link>http://ignorame</link>
 <thumbnail>https://1.bp.blogspot.com/-tdRyGl-GpMQ/WKO7jK4GvAI/AAAAAAAADR8/s9D0ZGaeUQYyhgNj54LneiSdjk9a9x6zgCLcB/s1600/Faroeste.png</thumbnail>
 <fanart>https://1.bp.blogspot.com/-tdRyGl-GpMQ/WKO7jK4GvAI/AAAAAAAADR8/s9D0ZGaeUQYyhgNj54LneiSdjk9a9x6zgCLcB/s1600/Faroeste.png</fanart>
-<externallink>https://raw.githubusercontent.com/RAMALHOTV/FILMES-FAROESTE-diretos-/main/README.md</externallink>
+<externallink></externallink>
 </item>
 
 <item>
@@ -90,7 +90,7 @@
 <link>http://ignorame</link>
 <thumbnail>https://3.bp.blogspot.com/-s3pPzroLvgg/WKhaqBd0a4I/AAAAAAAADdA/cCop7_WQEaQrvWTkJU4I80hMOLj-7wRgQCLcB/s1600/Suspense%2521.png</thumbnail>
 <fanart>https://3.bp.blogspot.com/-s3pPzroLvgg/WKhaqBd0a4I/AAAAAAAADdA/cCop7_WQEaQrvWTkJU4I80hMOLj-7wRgQCLcB/s1600/Suspense%2521.png</fanart>
-<externallink>https://raw.githubusercontent.com/RAMALHOTV/FILMES-SUSPENSE-diretos/main/README.md</externallink>
+<externallink>https://pastebin.com/raw/2X4k8QNL</externallink>
 </item>
 
 <item>
@@ -98,7 +98,7 @@
 <link>http://ignorame</link>
 <thumbnail>https://3.bp.blogspot.com/--2np9Ky5DbM/WKO7rhleh4I/AAAAAAAADSo/a8r4Jct3B_Y467OwJimHSXg6ILjAzyX0QCLcB/s1600/Terror.png</thumbnail>
 <fanart>https://3.bp.blogspot.com/--2np9Ky5DbM/WKO7rhleh4I/AAAAAAAADSo/a8r4Jct3B_Y467OwJimHSXg6ILjAzyX0QCLcB/s1600/Terror.png</fanart>
-<externallink>https://raw.githubusercontent.com/RAMALHOTV/FILMES-TERROR-diretos-/main/README.md</externallink>
+<externallink>https://pastebin.com/raw/1cshbuJg</externallink>
 </item>
 
 <item>
@@ -106,8 +106,18 @@
 <link>http://ignorame</link>
 <thumbnail>https://4.bp.blogspot.com/-sCVBqJS0bQU/WKO7nBmGspI/AAAAAAAADSE/lUFNJALgtOoisi7AecHHnb2oMgS9j30lgCLcB/s1600/Her%25C3%25B3is.png</thumbnail>
 <fanart>https://4.bp.blogspot.com/-sCVBqJS0bQU/WKO7nBmGspI/AAAAAAAADSE/lUFNJALgtOoisi7AecHHnb2oMgS9j30lgCLcB/s1600/Her%25C3%25B3is.png</fanart>
-<externallink>https://raw.githubusercontent.com/RAMALHOTV/MARVEL-DC-diretos-/main/README.md</externallink>
+<externallink>https://pastebin.com/raw/Q3AAv8zB</externallink>
 </item>
+
+<item>
+<title>[B][COLOR white]FILMES ROMANCE[/COLOR][/B]</title>
+<link>http://ignorame</link>
+<thumbnail>https://2.bp.blogspot.com/-pGImO6Vfdzw/WKO7qKGKGcI/AAAAAAAADSc/7X1LyAjjVHMrY5Tl22wdK6YHLcKVJSRZQCLcB/s1600/Romance.png</thumbnail>
+<fanart>https://2.bp.blogspot.com/-pGImO6Vfdzw/WKO7qKGKGcI/AAAAAAAADSc/7X1LyAjjVHMrY5Tl22wdK6YHLcKVJSRZQCLcB/s1600/Romance.png</fanart>
+<externallink>https://pastebin.com/raw/aF2xPj4a</externallink>
+</item>
+
+
 
 <item>
 <title>[B][COLOR white]FILMES Clássicos[/COLOR][/B]</title>
@@ -116,4 +126,3 @@
 <fanart>https://3.bp.blogspot.com/-1bYSiqOhYZg/WKheKrQvARI/AAAAAAAADdY/3H2ZZLkRrf0MQpY3Mf7CtYzH0lawtGYsgCLcB/s1600/Cl%25C3%25A1ssicos%2521.png</fanart>
 <externallink></externallink>
 </item>
-
