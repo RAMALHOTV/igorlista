@@ -122,7 +122,15 @@
 <item>
 <title>[B][COLOR white]FILMES Nacional[/COLOR][/B]</title>
 <link>http://ignorame</link>
-<thumbnail>http://2.bp.blogspot.com/-HbjhMO_FTS8/UXv13y0WNdI/AAAAAAAABH4/71u2VMTPoEc/s1600/filmenacionais.bmp</thumbnail>
+<thumbnail>https://4.bp.blogspot.com/-h4ipLhC4BO8/WKO7oqiZT-I/AAAAAAAADSQ/qArOaPFj-s0LfnS3BmggS1y0vgiw0iqjwCLcB/s1600/Nacional.png</thumbnail>
 <fanart>https://ogimg.infoglobo.com.br/in/24117383-3ae-3a4/FT631A/filmes-nacionais-ancine.jpg</fanart>
 <externallink>https://pastebin.com/raw/2mPdV8Zz</externallink>
+</item>
+
+<item>
+<title>[B][COLOR white]FILMES Policial[/COLOR][/B]</title>
+<link>http://ignorame</link>
+<thumbnail>http://s3.amazonaws.com/img.iluria.com/product/531CF2/CA35B9/450xN.jpg</thumbnail>
+<fanart>http://s3.amazonaws.com/img.iluria.com/product/531CF2/CA35B9/450xN.jpg</fanart>
+<externallink>https://pastebin.com/raw/xF6KiqPU</externallink>
 </item>
