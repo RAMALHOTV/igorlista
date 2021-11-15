@@ -34,7 +34,7 @@
 <link>http://ignorame</link>
 <thumbnail>https://1.bp.blogspot.com/-7GvcVQGSyCg/WKO7ZT2ZJxI/AAAAAAAADRY/BwkvEWPLYzYDoNCa3rQz_aV4F396FgIOgCLcB/s1600/A%25C3%25A7%25C3%25A3o.png</thumbnail>
 <fanart>https://1.bp.blogspot.com/-7GvcVQGSyCg/WKO7ZT2ZJxI/AAAAAAAADRY/BwkvEWPLYzYDoNCa3rQz_aV4F396FgIOgCLcB/s1600/A%25C3%25A7%25C3%25A3o.png</fanart>
-<externallink>https://pastebin.com/raw/Nk6NG9PA</externallink>
+<externallink>https://raw.githubusercontent.com/RAMALHOTV/filmes-de-a-ao/main/README.md</externallink>
 </item>
  
 <item>
@@ -66,7 +66,7 @@
 <link>http://ignorame</link>
 <thumbnail>https://3.bp.blogspot.com/-Lr1JcAvEFtY/WKO7iu363aI/AAAAAAAADR4/IZhBGLKydvYGQoaXJnSPYRr-GacIQtc0wCLcB/s1600/F.%2BCient%25C3%25ADfica.png</thumbnail>
 <fanart>https://3.bp.blogspot.com/-Lr1JcAvEFtY/WKO7iu363aI/AAAAAAAADR4/IZhBGLKydvYGQoaXJnSPYRr-GacIQtc0wCLcB/s1600/F.%2BCient%25C3%25ADfica.png</fanart>
-<externallink>https://pastebin.com/raw/9vuP6Wq5</externallink>
+<externallink>https://pastebin.com/raw/t8r10j6s</externallink>
 </item>
 
 <item>
@@ -98,7 +98,7 @@
 <link>http://ignorame</link>
 <thumbnail>https://3.bp.blogspot.com/--2np9Ky5DbM/WKO7rhleh4I/AAAAAAAADSo/a8r4Jct3B_Y467OwJimHSXg6ILjAzyX0QCLcB/s1600/Terror.png</thumbnail>
 <fanart>https://3.bp.blogspot.com/--2np9Ky5DbM/WKO7rhleh4I/AAAAAAAADSo/a8r4Jct3B_Y467OwJimHSXg6ILjAzyX0QCLcB/s1600/Terror.png</fanart>
-<externallink>https://pastebin.com/raw/1cshbuJg</externallink>
+<externallink>https://raw.githubusercontent.com/RAMALHOTV/FILMES-TERROR-diretos-/main/README.md</externallink>
 </item>
 
 <item>
@@ -133,4 +133,13 @@
 <thumbnail>http://s3.amazonaws.com/img.iluria.com/product/531CF2/CA35B9/450xN.jpg</thumbnail>
 <fanart>http://s3.amazonaws.com/img.iluria.com/product/531CF2/CA35B9/450xN.jpg</fanart>
 <externallink>https://pastebin.com/raw/xF6KiqPU</externallink>
+</item>
+
+
+<item>
+<title>[B][COLOR white]FILMES Clássicos[/COLOR][/B]</title>
+<link>http://ignorame</link>
+<thumbnail>https://3.bp.blogspot.com/-1bYSiqOhYZg/WKheKrQvARI/AAAAAAAADdY/3H2ZZLkRrf0MQpY3Mf7CtYzH0lawtGYsgCLcB/s1600/Cl%25C3%25A1ssicos%2521.png</thumbnail>
+<fanart>https://3.bp.blogspot.com/-1bYSiqOhYZg/WKheKrQvARI/AAAAAAAADdY/3H2ZZLkRrf0MQpY3Mf7CtYzH0lawtGYsgCLcB/s1600/Cl%25C3%25A1ssicos%2521.png</fanart>
+<externallink>https://raw.githubusercontent.com/RAMALHOTV/filmes-classicos-/main/README.md</externallink>
 </item>
