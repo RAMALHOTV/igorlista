@@ -120,9 +120,9 @@
 
 
 <item>
-<title>[B][COLOR white]FILMES Clássicos[/COLOR][/B]</title>
+<title>[B][COLOR white]FILMES Nacional[/COLOR][/B]</title>
 <link>http://ignorame</link>
-<thumbnail>https://3.bp.blogspot.com/-1bYSiqOhYZg/WKheKrQvARI/AAAAAAAADdY/3H2ZZLkRrf0MQpY3Mf7CtYzH0lawtGYsgCLcB/s1600/Cl%25C3%25A1ssicos%2521.png</thumbnail>
-<fanart>https://3.bp.blogspot.com/-1bYSiqOhYZg/WKheKrQvARI/AAAAAAAADdY/3H2ZZLkRrf0MQpY3Mf7CtYzH0lawtGYsgCLcB/s1600/Cl%25C3%25A1ssicos%2521.png</fanart>
-<externallink></externallink>
+<thumbnail>http://2.bp.blogspot.com/-HbjhMO_FTS8/UXv13y0WNdI/AAAAAAAABH4/71u2VMTPoEc/s1600/filmenacionais.bmp</thumbnail>
+<fanart>https://ogimg.infoglobo.com.br/in/24117383-3ae-3a4/FT631A/filmes-nacionais-ancine.jpg</fanart>
+<externallink>https://pastebin.com/raw/2mPdV8Zz</externallink>
 </item>
