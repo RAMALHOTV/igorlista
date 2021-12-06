@@ -42,7 +42,7 @@
 <link>http://ignorame</link>
 <thumbnail>https://3.bp.blogspot.com/-sZSG2hrxxxg/WKO7ctgEn6I/AAAAAAAADRk/kl8vtWFoVSA-dptR08bBnM5kc6tyaeoSgCLcB/s1600/Com%25C3%25A9dia.png</thumbnail>
 <fanart>https://3.bp.blogspot.com/-sZSG2hrxxxg/WKO7ctgEn6I/AAAAAAAADRk/kl8vtWFoVSA-dptR08bBnM5kc6tyaeoSgCLcB/s1600/Com%25C3%25A9dia.png</fanart>
-<externallink>https://pastebin.com/raw/R0SrGuUb</externallink>
+<externallink>https://raw.githubusercontent.com/RAMALHOTV/comedia/main/README.md</externallink>
 </item>
 
 <item>
@@ -50,7 +50,7 @@
 <link>http://ignorame</link>
 <thumbnail>https://3.bp.blogspot.com/-lXjR4qY2WXA/WKheKsvt_rI/AAAAAAAADdc/p7x_jgjhXcoO7fPy-wQJvS655vLeyc0NwCLcB/s1600/Anima%25C3%25A7%25C3%25A3o%2521.png</thumbnail>
 <fanart>https://3.bp.blogspot.com/-lXjR4qY2WXA/WKheKsvt_rI/AAAAAAAADdc/p7x_jgjhXcoO7fPy-wQJvS655vLeyc0NwCLcB/s1600/Anima%25C3%25A7%25C3%25A3o%2521.png</fanart>
-<externallink>https://pastebin.com/raw/2X4k8QNL</externallink>
+<externallink>https://raw.githubusercontent.com/RAMALHOTV/anima-ao/main/README.md</externallink>
 </item>
  
 <item>
@@ -82,7 +82,7 @@
 <link>http://ignorame</link>
 <thumbnail>https://1.bp.blogspot.com/-tdRyGl-GpMQ/WKO7jK4GvAI/AAAAAAAADR8/s9D0ZGaeUQYyhgNj54LneiSdjk9a9x6zgCLcB/s1600/Faroeste.png</thumbnail>
 <fanart>https://1.bp.blogspot.com/-tdRyGl-GpMQ/WKO7jK4GvAI/AAAAAAAADR8/s9D0ZGaeUQYyhgNj54LneiSdjk9a9x6zgCLcB/s1600/Faroeste.png</fanart>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/RAMALHOTV/faroeste/main/README.md</externallink>
 </item>
 
 <item>
@@ -90,7 +90,7 @@
 <link>http://ignorame</link>
 <thumbnail>https://3.bp.blogspot.com/-s3pPzroLvgg/WKhaqBd0a4I/AAAAAAAADdA/cCop7_WQEaQrvWTkJU4I80hMOLj-7wRgQCLcB/s1600/Suspense%2521.png</thumbnail>
 <fanart>https://3.bp.blogspot.com/-s3pPzroLvgg/WKhaqBd0a4I/AAAAAAAADdA/cCop7_WQEaQrvWTkJU4I80hMOLj-7wRgQCLcB/s1600/Suspense%2521.png</fanart>
-<externallink>https://pastebin.com/raw/2X4k8QNL</externallink>
+<externallink>https://raw.githubusercontent.com/RAMALHOTV/FILMES-SUSPENSE-diretos/main/README.md</externallink>
 </item>
 
 <item>
