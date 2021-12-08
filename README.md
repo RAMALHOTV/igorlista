@@ -106,7 +106,7 @@
 <link>http://ignorame</link>
 <thumbnail>https://4.bp.blogspot.com/-sCVBqJS0bQU/WKO7nBmGspI/AAAAAAAADSE/lUFNJALgtOoisi7AecHHnb2oMgS9j30lgCLcB/s1600/Her%25C3%25B3is.png</thumbnail>
 <fanart>https://4.bp.blogspot.com/-sCVBqJS0bQU/WKO7nBmGspI/AAAAAAAADSE/lUFNJALgtOoisi7AecHHnb2oMgS9j30lgCLcB/s1600/Her%25C3%25B3is.png</fanart>
-<externallink>https://pastebin.com/raw/Q3AAv8zB</externallink>
+<externallink>https://raw.githubusercontent.com/RAMALHOTV/MARVEL-DC-diretos-/main/README.md</externallink>
 </item>
 
 <item>
