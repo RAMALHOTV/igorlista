@@ -143,3 +143,11 @@
 <fanart>https://3.bp.blogspot.com/-1bYSiqOhYZg/WKheKrQvARI/AAAAAAAADdY/3H2ZZLkRrf0MQpY3Mf7CtYzH0lawtGYsgCLcB/s1600/Cl%25C3%25A1ssicos%2521.png</fanart>
 <externallink>https://raw.githubusercontent.com/RAMALHOTV/filmes-classicos-/main/README.md</externallink>
 </item>
+
+<item>
+<title>[B][COLOR white]FILMES 4K[/COLOR][/B]</title>
+<link>http://ignorame</link>
+<thumbnail>https://images.static-bluray.com/movies/covers/213920_large.jpg</thumbnail>
+<fanart>https://vinteconto.sfo2.cdn.digitaloceanspaces.com/listings/285931/556eca85acc4a5dc7e0bcddff9562aa4.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/RAMALHOTV/filmes4k/main/README.md</externallink>
+</item>
