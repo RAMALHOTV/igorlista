@@ -43,7 +43,7 @@
 <link>http://ignorame</link>
 <thumbnail>https://3.bp.blogspot.com/-sZSG2hrxxxg/WKO7ctgEn6I/AAAAAAAADRk/kl8vtWFoVSA-dptR08bBnM5kc6tyaeoSgCLcB/s1600/Com%25C3%25A9dia.png</thumbnail>
 <fanart>https://3.bp.blogspot.com/-sZSG2hrxxxg/WKO7ctgEn6I/AAAAAAAADRk/kl8vtWFoVSA-dptR08bBnM5kc6tyaeoSgCLcB/s1600/Com%25C3%25A9dia.png</fanart>
-<externallink>https://raw.githubusercontent.com/RAMALHOTV/comedia/main/README.md</externallink>
+<externallink>https://raw.githubusercontent.com/RAMALHOTV/filmes-comedia-torentes/main/README.md</externallink>
 </item>
 
 <item>
