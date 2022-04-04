@@ -99,7 +99,7 @@
 <link>http://ignorame</link>
 <thumbnail>https://3.bp.blogspot.com/--2np9Ky5DbM/WKO7rhleh4I/AAAAAAAADSo/a8r4Jct3B_Y467OwJimHSXg6ILjAzyX0QCLcB/s1600/Terror.png</thumbnail>
 <fanart>https://3.bp.blogspot.com/--2np9Ky5DbM/WKO7rhleh4I/AAAAAAAADSo/a8r4Jct3B_Y467OwJimHSXg6ILjAzyX0QCLcB/s1600/Terror.png</fanart>
-<externallink>https://raw.githubusercontent.com/RAMALHOTV/FILMES-TERROR-diretos-/main/README.md</externallink>
+<externallink>https://pastebin.com/raw/d5KGvjZ9</externallink>
 </item>
 
 <item>
