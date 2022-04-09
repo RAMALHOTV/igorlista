@@ -67,7 +67,7 @@
 <link>http://ignorame</link>
 <thumbnail>https://3.bp.blogspot.com/-Lr1JcAvEFtY/WKO7iu363aI/AAAAAAAADR4/IZhBGLKydvYGQoaXJnSPYRr-GacIQtc0wCLcB/s1600/F.%2BCient%25C3%25ADfica.png</thumbnail>
 <fanart>https://3.bp.blogspot.com/-Lr1JcAvEFtY/WKO7iu363aI/AAAAAAAADR4/IZhBGLKydvYGQoaXJnSPYRr-GacIQtc0wCLcB/s1600/F.%2BCient%25C3%25ADfica.png</fanart>
-<externallink>https://pastebin.com/raw/t8r10j6s</externallink>
+<externallink>https://raw.githubusercontent.com/RAMALHOTV/Vamp-/main/README.md</externallink>
 </item>
 
 <item>
