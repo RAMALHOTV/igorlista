@@ -3,6 +3,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
+<title>[B][COLOR white]Filmes Aleatorios teste[/COLOR][/B]</title>
+<link>http://ignorame</link>
+<thumbnail>https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/3e731f36-a00d-49ec-9deb-09728cc3ef8d/d9t7eny-19cfdfef-f028-4c72-b64f-3b2a2a5bdccb.jpg</thumbnail>
+<fanart>https://falauniversidades.com.br/mrf4u/statics/i/ps/cdn.falauniversidades.com.br/wp-content/uploads/2021/12/17170642/Filmes-para-2022.png</fanart>
+<externallink>https://raw.githubusercontent.com/RAMALHOTV/novelas/main/README.md</externallink>
+</item>
+<item>
 <title>[B][COLOR white]Filmes Aleatorios[/COLOR][/B]</title>
 <link>http://ignorame</link>
 <thumbnail>https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/3e731f36-a00d-49ec-9deb-09728cc3ef8d/d9t7eny-19cfdfef-f028-4c72-b64f-3b2a2a5bdccb.jpg</thumbnail>
