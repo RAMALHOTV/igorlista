@@ -8,7 +8,7 @@
 <link>http://ignorame</link>
 <thumbnail>https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/3e731f36-a00d-49ec-9deb-09728cc3ef8d/d9t7eny-19cfdfef-f028-4c72-b64f-3b2a2a5bdccb.jpg</thumbnail>
 <fanart>https://falauniversidades.com.br/mrf4u/statics/i/ps/cdn.falauniversidades.com.br/wp-content/uploads/2021/12/17170642/Filmes-para-2022.png</fanart>
-<externallink>https://raw.githubusercontent.com/RAMALHOTV/FILMES-ALEATORIOS-TORRNTES/main/README.md</externallink>
+<externallink>https://raw.githubusercontent.com/RAMALHOTV/DWIGHT-FARROKH-LISTAS-GRATIS/main/README.md</externallink>
 </item>
 
 
@@ -68,7 +68,7 @@
 <link>http://ignorame</link>
 <thumbnail>https://3.bp.blogspot.com/-Lr1JcAvEFtY/WKO7iu363aI/AAAAAAAADR4/IZhBGLKydvYGQoaXJnSPYRr-GacIQtc0wCLcB/s1600/F.%2BCient%25C3%25ADfica.png</thumbnail>
 <fanart>https://3.bp.blogspot.com/-Lr1JcAvEFtY/WKO7iu363aI/AAAAAAAADR4/IZhBGLKydvYGQoaXJnSPYRr-GacIQtc0wCLcB/s1600/F.%2BCient%25C3%25ADfica.png</fanart>
-<externallink>https://raw.githubusercontent.com/RAMALHOTV/Vamp-/main/README.md</externallink>
+<externallink>https://raw.githubusercontent.com/RAMALHOTV/Pantanal/main/README.md</externallink>
 </item>
 
 <item>
