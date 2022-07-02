@@ -52,7 +52,7 @@
 <link>http://ignorame</link>
 <thumbnail>https://3.bp.blogspot.com/-lXjR4qY2WXA/WKheKsvt_rI/AAAAAAAADdc/p7x_jgjhXcoO7fPy-wQJvS655vLeyc0NwCLcB/s1600/Anima%25C3%25A7%25C3%25A3o%2521.png</thumbnail>
 <fanart>https://3.bp.blogspot.com/-lXjR4qY2WXA/WKheKsvt_rI/AAAAAAAADdc/p7x_jgjhXcoO7fPy-wQJvS655vLeyc0NwCLcB/s1600/Anima%25C3%25A7%25C3%25A3o%2521.png</fanart>
-<externallink>https://raw.githubusercontent.com/RAMALHOTV/anima-ao/main/README.md</externallink>
+<externallink>https://raw.githubusercontent.com/RAMALHOTV/filmesanima-ao/main/README.md</externallink>
 </item>
  
 <item>
