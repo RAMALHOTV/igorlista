@@ -17,7 +17,7 @@
 <link>http://ignorame</link>
 <thumbnail>https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/af4815e1-0f4a-44db-b69f-97131c3e9ea4/dba9f0d-6695f8ef-3d6b-4d26-a0e6-1586794f0e98.jpg</thumbnail>
 <fanart>https://pausadrammatica.files.wordpress.com/2020/12/filmes-2021.jpg?w=1400</fanart>
-<externallink>https://bit.ly/filmesHDjonastec</externallink>
+<externallink>https://raw.githubusercontent.com/RAMALHOTV/FILMES-LANCAMETOS2021/main/README.md</externallink>
 </item>
 
  
